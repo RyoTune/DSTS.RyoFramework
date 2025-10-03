@@ -2,7 +2,7 @@
   "ModId": "DSTS.RyoFramework",
   "ModName": "Ryo Framework for Digimon Story: Time Stranger",
   "ModAuthor": "RyoTune",
-  "ModVersion": "1.0.1",
+  "ModVersion": "1.0.2",
   "ModDescription": "Adds Ryo Framework support for Digimon Story: Time Stranger.",
   "ModDll": "",
   "ModIcon": "Preview.png",
@@ -24,13 +24,9 @@
     }
   },
   "IsUniversalMod": false,
-  "ModDependencies": [
-    "Ryo.Reloaded"
-  ],
+  "ModDependencies": ["Ryo.Reloaded"],
   "OptionalDependencies": [],
-  "SupportedAppId": [
-    "digimon story time stranger.exe"
-  ],
+  "SupportedAppId": ["digimon story time stranger.exe"],
   "ProjectUrl": "",
   "CreatorUrl": "",
   "IsSeparator": false
