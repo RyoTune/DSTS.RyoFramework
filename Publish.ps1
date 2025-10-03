@@ -163,7 +163,7 @@ param (
 
     ## => User Config <= ## 
     $ProjectPath = "",
-    $PackageName = "SRC.RyoFramework",
+    $PackageName = "DSTS.RyoFramework",
     $PublishOutputDir = "Publish/ToUpload",
 
     ## => User: Delta Config
@@ -180,7 +180,7 @@ param (
 
     $GameBananaItemId = 333681, # From mod page URL.
 
-    $NuGetPackageId = "SRC.RyoFramework",
+    $NuGetPackageId = "DSTS.RyoFramework",
     $NuGetFeedUrl = "http://packages.sewer56.moe:5000/v3/index.json",
     $NuGetAllowUnlisted = $False,
 
